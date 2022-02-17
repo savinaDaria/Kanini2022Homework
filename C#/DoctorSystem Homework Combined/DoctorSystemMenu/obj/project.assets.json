@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
+      "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
       "DoctorModelsLibrary >= 1.0.0"
     ]
   },
@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
+      "projectUniqueName": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
       "projectName": "DoctorSystemMenu",
-      "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
+      "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
       "packagesPath": "C:\\Users\\Agusha\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\obj\\",
+      "outputPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\DoctorSystemMenu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,11 +59,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj": {
-              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj"
+            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj": {
+              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj"
             },
-            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj": {
-              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj"
+            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj": {
+              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj"
             }
           }
         }
@@ -100,8 +100,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
+      "message": "Unable to find project 'D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystem Homework Combined\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
       "targetGraphs": [
         "net5.0"
       ]
