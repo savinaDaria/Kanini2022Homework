@@ -1,0 +1,15 @@
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.exe
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.deps.json
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.runtimeconfig.json
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.runtimeconfig.dev.json
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.dll
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\ref\UnderstandingInterfaceApp.dll
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.pdb
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.AssemblyInfoInputs.cache
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.AssemblyInfo.cs
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.dll
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\ref\UnderstandingInterfaceApp.dll
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.pdb
+D:\Work\Kanini\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+D:\Work\Kanini\C#\MultipleProjectApplication\obj\Debug\net5.0\MultipleProjectApplication.csproj.AssemblyReference.cache
+D:\Work\Kanini\C#\MultipleProjectApplication\obj\Debug\net5.0\MultipleProjectApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\C#\MultipleProjectApplication\obj\Debug\net5.0\MultipleProjectApplication.AssemblyInfoInputs.cache
+D:\Work\Kanini\C#\MultipleProjectApplication\obj\Debug\net5.0\MultipleProjectApplication.AssemblyInfo.cs
+D:\Work\Kanini\C#\MultipleProjectApplication\obj\Debug\net5.0\MultipleProjectApplication.csproj.CoreCompileInputs.cache

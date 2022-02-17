@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoctorSystemMenu/1.0.0": {
+        "dependencies": {
+          "DoctorModelsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DoctorSystemMenu.dll": {}
+        }
+      },
+      "DoctorModelsLibrary/1.0.0": {
+        "runtime": {
+          "DoctorModelsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorSystemMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorModelsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

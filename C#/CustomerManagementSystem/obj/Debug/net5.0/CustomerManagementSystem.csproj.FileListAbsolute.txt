@@ -1,0 +1,16 @@
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\CustomerManagementSystem.exe
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\CustomerManagementSystem.deps.json
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\CustomerManagementSystem.runtimeconfig.json
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\CustomerManagementSystem.runtimeconfig.dev.json
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\CustomerManagementSystem.dll
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\ref\CustomerManagementSystem.dll
+D:\Work\Kanini\C#\CustomerManagementSystem\bin\Debug\net5.0\CustomerManagementSystem.pdb
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.csproj.AssemblyReference.cache
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.AssemblyInfoInputs.cache
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.AssemblyInfo.cs
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.dll
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\ref\CustomerManagementSystem.dll
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.pdb
+D:\Work\Kanini\C#\CustomerManagementSystem\obj\Debug\net5.0\CustomerManagementSystem.genruntimeconfig.cache
