@@ -7,19 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApplication", "FirstAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerManagementSystem", "..\CustomerManagementSystem\CustomerManagementSystem.csproj", "{8D7E03C7-ACE7-4F77-8C9B-03291C354100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStoreModelsLibrary", "..\PizzaStoreModelsLibrary\PizzaStoreModelsLibrary.csproj", "{5B6685B8-5563-4665-A5BB-9C5A9F92419F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaStoreModelsLibrary", "..\PizzaStoreModelsLibrary\PizzaStoreModelsLibrary.csproj", "{5B6685B8-5563-4665-A5BB-9C5A9F92419F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleProjectApplication", "..\MultipleProjectApplication\MultipleProjectApplication.csproj", "{22AA3D68-A71B-4776-8EA1-7CAB8F3180FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleProjectApplication", "..\MultipleProjectApplication\MultipleProjectApplication.csproj", "{22AA3D68-A71B-4776-8EA1-7CAB8F3180FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingInterfaceApp", "..\UnderstandingInterfaceApp\UnderstandingInterfaceApp.csproj", "{E5D0CD77-E71C-4209-B62D-5BD6BB7016F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnderstandingInterfaceApp", "..\UnderstandingInterfaceApp\UnderstandingInterfaceApp.csproj", "{E5D0CD77-E71C-4209-B62D-5BD6BB7016F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorModelsLibrary", "..\HospitalModelsLibrary\DoctorModelsLibrary.csproj", "{5BE57232-9F1F-456F-9AC4-BBE408E7D942}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingCollectionsApp", "..\UnderstandingCollectionsApp\UnderstandingCollectionsApp.csproj", "{52FA8ABE-4B30-4013-AE34-25711FFC3BFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnderstandingCollectionsApp", "..\UnderstandingCollectionsApp\UnderstandingCollectionsApp.csproj", "{52FA8ABE-4B30-4013-AE34-25711FFC3BFC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doctors", "Doctors", "{2B596805-88C9-4D6A-A9FE-B57FD45F4626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorSystemMenu", "..\DoctorSystemMenu\DoctorSystemMenu.csproj", "{177BAF57-133E-4B28-9393-ED5EE96D02A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorSystemMenu", "..\DoctorSystemMenu\DoctorSystemMenu.csproj", "{177BAF57-133E-4B28-9393-ED5EE96D02A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorModelsLibrary", "..\DoctorModelsLibrary\DoctorModelsLibrary.csproj", "{A90E05E2-098B-4DA0-BE04-060ED18F9ACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,6 @@ Global
 		{E5D0CD77-E71C-4209-B62D-5BD6BB7016F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D0CD77-E71C-4209-B62D-5BD6BB7016F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D0CD77-E71C-4209-B62D-5BD6BB7016F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BE57232-9F1F-456F-9AC4-BBE408E7D942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BE57232-9F1F-456F-9AC4-BBE408E7D942}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BE57232-9F1F-456F-9AC4-BBE408E7D942}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BE57232-9F1F-456F-9AC4-BBE408E7D942}.Release|Any CPU.Build.0 = Release|Any CPU
 		{52FA8ABE-4B30-4013-AE34-25711FFC3BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{52FA8ABE-4B30-4013-AE34-25711FFC3BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52FA8ABE-4B30-4013-AE34-25711FFC3BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -59,13 +55,17 @@ Global
 		{177BAF57-133E-4B28-9393-ED5EE96D02A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{177BAF57-133E-4B28-9393-ED5EE96D02A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{177BAF57-133E-4B28-9393-ED5EE96D02A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90E05E2-098B-4DA0-BE04-060ED18F9ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90E05E2-098B-4DA0-BE04-060ED18F9ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90E05E2-098B-4DA0-BE04-060ED18F9ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90E05E2-098B-4DA0-BE04-060ED18F9ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5BE57232-9F1F-456F-9AC4-BBE408E7D942} = {2B596805-88C9-4D6A-A9FE-B57FD45F4626}
 		{177BAF57-133E-4B28-9393-ED5EE96D02A2} = {2B596805-88C9-4D6A-A9FE-B57FD45F4626}
+		{A90E05E2-098B-4DA0-BE04-060ED18F9ACA} = {2B596805-88C9-4D6A-A9FE-B57FD45F4626}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {82FFC3BA-11CC-4B16-8078-5B778656F262}
