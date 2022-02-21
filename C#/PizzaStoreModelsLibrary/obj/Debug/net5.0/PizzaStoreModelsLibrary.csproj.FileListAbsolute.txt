@@ -9,3 +9,15 @@ D:\Work\Kanini\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibra
 D:\Work\Kanini\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.dll
 D:\Work\Kanini\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\ref\PizzaStoreModelsLibrary.dll
 D:\Work\Kanini\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\bin\Debug\net5.0\PizzaStoreModelsLibrary.deps.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\bin\Debug\net5.0\PizzaStoreModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\bin\Debug\net5.0\ref\PizzaStoreModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\bin\Debug\net5.0\PizzaStoreModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\ref\PizzaStoreModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.pdb

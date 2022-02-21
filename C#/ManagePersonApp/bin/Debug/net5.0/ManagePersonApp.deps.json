@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ManagePersonApp/1.0.0": {
+        "dependencies": {
+          "PersonModelsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ManagePersonApp.dll": {}
+        }
+      },
+      "PersonModelsLibrary/1.0.0": {
+        "runtime": {
+          "PersonModelsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManagePersonApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonModelsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

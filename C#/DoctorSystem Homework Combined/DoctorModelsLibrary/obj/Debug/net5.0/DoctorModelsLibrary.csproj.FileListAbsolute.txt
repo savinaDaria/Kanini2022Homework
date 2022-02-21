@@ -10,3 +10,15 @@ D:\Work\Kanini\C#\HospitalModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.dll
 D:\Work\Kanini\C#\HospitalModelsLibrary\obj\Debug\net5.0\ref\DoctorModelsLibrary.dll
 D:\Work\Kanini\C#\HospitalModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.pdb
 D:\Work\Kanini\C#\HospitalModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\bin\Debug\net5.0\DoctorModelsLibrary.deps.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\bin\Debug\net5.0\DoctorModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\bin\Debug\net5.0\ref\DoctorModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\bin\Debug\net5.0\DoctorModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\ref\DoctorModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorModelsLibrary\obj\Debug\net5.0\DoctorModelsLibrary.pdb
