@@ -20,7 +20,6 @@ D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollection
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\bin\Debug\net5.0\UnderstandingCollectionsApp.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\bin\Debug\net5.0\ref\UnderstandingCollectionsApp.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\bin\Debug\net5.0\UnderstandingCollectionsApp.pdb
-D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\obj\Debug\net5.0\UnderstandingCollectionsApp.csproj.AssemblyReference.cache
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\obj\Debug\net5.0\UnderstandingCollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\obj\Debug\net5.0\UnderstandingCollectionsApp.AssemblyInfoInputs.cache
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingCollectionsApp\obj\Debug\net5.0\UnderstandingCollectionsApp.AssemblyInfo.cs

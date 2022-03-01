@@ -1,24 +1,44 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using ExceptionHandlingLibrary;
 
 namespace GameModelsLibrary
 {
     public class WordGame
     {
         static Queue<string> words;
+        readonly int  wordLength=4;
         string current_word = "";
         int cows, bulls;
+        public WordGame(int word_length)
+        {
+            words = new Queue<string>();
+            cows = 0;
+            bulls = 0;
+            wordLength = word_length;
+        }
         public void AddWord()
         {
-            Console.WriteLine("Please enter the word: ");
-            string word = Console.ReadLine();
-            while (word.Length!=4)
+            string word="";
+            try
             {
-                Console.WriteLine("Please enter only 4 char words! try again");
+                Console.WriteLine("Please enter the word: ");
                 word = Console.ReadLine();
-            }            
-            words.Enqueue(word);
-            Console.WriteLine($"Thank you the word \"{word}\" was added to the queue");
+                if (word.Length != wordLength)
+                {
+                    throw new InvalidWordLengthException(word, wordLength);
+                }
+                words.Enqueue(word);
+                Console.WriteLine($"Thank you, the word \"{word}\" was added to the queue");
+            }
+            catch (InvalidWordLengthException exiwl) 
+            {
+                Debug.WriteLine(exiwl.Message + "    Word: " + word);
+                Console.WriteLine(exiwl.Message);
+            }
+            
+
         }
         public void GuessWord()
         {
@@ -28,50 +48,49 @@ namespace GameModelsLibrary
                 return;
             }
             current_word = words.Dequeue().ToLower().Trim();
-            //Console.WriteLine(current_word);
-            Console.WriteLine("Start the guess - only 4 char words");
+            Console.WriteLine($"Start the guess - only {wordLength} char words");
             do
             {
+                Console.WriteLine("Your word: ");
                 List<int> already_counted_indexes = new List<int> { };
                 string user_word = Console.ReadLine();
-                while (user_word.Length != 4)
+                try
                 {
-                    Console.WriteLine("Only 4 char words! Enter again, please");
-                    user_word = Console.ReadLine();
-                }
-                cows = 0;
-                bulls = 0;
-                user_word = user_word.ToLower().Trim();
-                for (int i = 0; i < current_word.Length; i++)
-                {
-                    for (int j = 0; j < user_word.Length; j++)
+                    if (user_word.Length != wordLength)
                     {
-                        if (current_word[i] == user_word[j] && i == j && !already_counted_indexes.Contains(j))
+                        throw new InvalidWordLengthException(user_word, wordLength);
+                    }
+                    cows = 0;
+                    bulls = 0;
+                    user_word = user_word.ToLower().Trim();
+                    for (int i = 0; i < current_word.Length; i++)
+                    {
+                        for (int j = 0; j < user_word.Length; j++)
                         {
-                            ++cows;
-                            already_counted_indexes.Add(j);
-                            break;
-                        }
-                        else if (current_word[i] == user_word[j] && i != j && !already_counted_indexes.Contains(j))
-                        {
-                            ++bulls;
-                            already_counted_indexes.Add(j);
-                            break;
+                            if (current_word[i] == user_word[j] && i == j && !already_counted_indexes.Contains(j))
+                            {
+                                ++cows;
+                                already_counted_indexes.Add(j);
+                                break;
+                            }
+                            else if (current_word[i] == user_word[j] && i != j && !already_counted_indexes.Contains(j))
+                            {
+                                ++bulls;
+                                already_counted_indexes.Add(j);
+                                break;
+                            }
                         }
                     }
+                    Console.WriteLine($"Cows-{cows},Bulls-{bulls}");
+                }                
+                catch (InvalidWordLengthException exc)
+                {
+                    Console.WriteLine(exc.Message);
                 }
-
-                Console.WriteLine($"Cows-{cows},Bulls-{bulls}");
-
             } while (cows != current_word.Length);
-            Console.WriteLine("Congrats!!! you won!!!!!");
+            Console.WriteLine("Congrats!!! you won!!!!!");            
         }
-        public WordGame()
-        {
-            words = new Queue<string>();
-            cows = 0;
-            bulls = 0;
-        }
+       
 
     }
 }

@@ -13,3 +13,5 @@ D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameModelsLibrary\obj\D
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameModelsLibrary\obj\Debug\net5.0\GameModelsLibrary.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameModelsLibrary\obj\Debug\net5.0\ref\GameModelsLibrary.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameModelsLibrary\obj\Debug\net5.0\GameModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameModelsLibrary\bin\Debug\net5.0\ExceptionHandlingLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameModelsLibrary\bin\Debug\net5.0\ExceptionHandlingLibrary.pdb

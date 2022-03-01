@@ -8,7 +8,7 @@ namespace GameMenu
         {
             bool successfullLogin = false;
             int choice = 0;
-            string loginMenu = "~~~Login to the game~~~\n" +
+            string loginMenu = "\n~~~Login to the game~~~\n" +
                                 "1) Register\n" +
                                 "2) Login\n"+
                                 "Please,choose one option:";
@@ -32,7 +32,7 @@ namespace GameMenu
         bool gameMenu(WordGame wordGame)
         {
             int choice = 0;
-            string mainMenu = "===Welcome to the game!===\n" +
+            string mainMenu = "\n===Welcome to the game!===\n" +
                                 "1) Give Word\n" +
                                 "2) Guess word\n" +
                                 "3) Exit to Login Menu\n" +
@@ -65,12 +65,12 @@ namespace GameMenu
 
         void mainMenu(UserManager userManager, WordGame wordGame)
         {
-            bool loginResult;
+            bool loginResult=false;
             do 
             {
                 loginResult = loginMenu(userManager);
             } while(!loginResult);
-            bool gameMenuflag;
+            bool gameMenuflag=true;
             do
             {
                 gameMenuflag = gameMenu(wordGame);
@@ -80,9 +80,10 @@ namespace GameMenu
 
         static void Main(string[] args)
         {
-            GameStart p = new GameStart();
+            GameStart p = new GameStart();                    
+
             UserManager userManager = new UserManager();
-            WordGame wordGame = new WordGame();
+            WordGame wordGame = new WordGame(4);
             p.mainMenu(userManager, wordGame);
         }
     }

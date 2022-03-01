@@ -19,3 +19,5 @@ D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameMenu\obj\Debug\net5
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameMenu\obj\Debug\net5.0\ref\GameMenu.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameMenu\obj\Debug\net5.0\GameMenu.pdb
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameMenu\obj\Debug\net5.0\GameMenu.genruntimeconfig.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameMenu\bin\Debug\net5.0\ExceptionHandlingLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\GameMenu\bin\Debug\net5.0\ExceptionHandlingLibrary.pdb

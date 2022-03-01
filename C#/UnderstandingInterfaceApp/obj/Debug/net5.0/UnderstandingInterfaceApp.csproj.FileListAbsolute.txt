@@ -20,7 +20,6 @@ D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceA
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\ref\UnderstandingInterfaceApp.dll
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\bin\Debug\net5.0\UnderstandingInterfaceApp.pdb
-D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.csproj.AssemblyReference.cache
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.AssemblyInfoInputs.cache
 D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingInterfaceApp\obj\Debug\net5.0\UnderstandingInterfaceApp.AssemblyInfo.cs

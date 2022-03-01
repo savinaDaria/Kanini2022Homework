@@ -2,10 +2,21 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "ExceptionHandlingLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExceptionHandlingLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExceptionHandlingLibrary.dll": {}
+        }
+      },
       "GameModelsLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "ExceptionHandlingLibrary": "1.0.0",
           "PersonModelsLibrary": "1.0.0"
         },
         "compile": {
@@ -28,6 +39,11 @@
     }
   },
   "libraries": {
+    "ExceptionHandlingLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ExceptionHandlingLibrary/ExceptionHandlingLibrary.csproj",
+      "msbuildProject": "../ExceptionHandlingLibrary/ExceptionHandlingLibrary.csproj"
+    },
     "GameModelsLibrary/1.0.0": {
       "type": "project",
       "path": "../GameModelsLibrary/GameModelsLibrary.csproj",

@@ -17,6 +17,3 @@ D:\Work\Kanini\C#\DoctorSystemMenu\obj\Debug\net5.0\DoctorSystemMenu.dll
 D:\Work\Kanini\C#\DoctorSystemMenu\obj\Debug\net5.0\ref\DoctorSystemMenu.dll
 D:\Work\Kanini\C#\DoctorSystemMenu\obj\Debug\net5.0\DoctorSystemMenu.pdb
 D:\Work\Kanini\C#\DoctorSystemMenu\obj\Debug\net5.0\DoctorSystemMenu.genruntimeconfig.cache
-D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorSystemMenu\obj\Debug\net5.0\DoctorSystemMenu.dll
-D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorSystemMenu\obj\Debug\net5.0\ref\DoctorSystemMenu.dll
-D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\DoctorSystem Homework Combined\DoctorSystemMenu\obj\Debug\net5.0\DoctorSystemMenu.pdb

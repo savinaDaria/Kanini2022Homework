@@ -1,0 +1,15 @@
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\UnderstandingExceptionApp.exe
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\UnderstandingExceptionApp.deps.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\UnderstandingExceptionApp.runtimeconfig.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\UnderstandingExceptionApp.runtimeconfig.dev.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\UnderstandingExceptionApp.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\ref\UnderstandingExceptionApp.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\bin\Debug\net5.0\UnderstandingExceptionApp.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\ref\UnderstandingExceptionApp.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\UnderstandingExceptionApp\obj\Debug\net5.0\UnderstandingExceptionApp.genruntimeconfig.cache

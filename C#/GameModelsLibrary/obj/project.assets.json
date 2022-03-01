@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "ExceptionHandlingLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExceptionHandlingLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExceptionHandlingLibrary.dll": {}
+        }
+      },
       "PersonModelsLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "ExceptionHandlingLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ExceptionHandlingLibrary/ExceptionHandlingLibrary.csproj",
+      "msbuildProject": "../ExceptionHandlingLibrary/ExceptionHandlingLibrary.csproj"
+    },
     "PersonModelsLibrary/1.0.0": {
       "type": "project",
       "path": "../PersonModelsLibrary/PersonModelsLibrary.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "ExceptionHandlingLibrary >= 1.0.0",
       "PersonModelsLibrary >= 1.0.0"
     ]
   },
@@ -58,6 +74,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\ExceptionHandlingLibrary\\ExceptionHandlingLibrary.csproj": {
+              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\ExceptionHandlingLibrary\\ExceptionHandlingLibrary.csproj"
+            },
             "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\PersonModelsLibrary\\PersonModelsLibrary.csproj": {
               "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\PersonModelsLibrary\\PersonModelsLibrary.csproj"
             }
