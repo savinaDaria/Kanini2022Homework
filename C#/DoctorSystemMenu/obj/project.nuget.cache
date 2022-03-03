@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "vFh9c9BJMdxHhLpSVC0p2wrRJHVukUPz+5aY024ubNUIQhUT4IkpAlpofrDziJOX6qgL5HJbMLf+FzzVWutcNw==",
-  "success": true,
-  "projectFilePath": "D:\\Work\\Kanini\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
+  "dgSpecHash": "kW1QJZJ6z97tcgMhaOpAlGnrvFgPZJ+A1MpTllvD9Oiuy6ziYbIwsO5Kk+JrosvgUggHJUKEZRGJjI+Dxv2lIw==",
+  "success": false,
+  "projectFilePath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

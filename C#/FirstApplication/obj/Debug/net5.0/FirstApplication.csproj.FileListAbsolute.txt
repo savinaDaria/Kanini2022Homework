@@ -13,3 +13,11 @@ D:\Work\Kanini\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.dll
 D:\Work\Kanini\C#\FirstApplication\obj\Debug\net5.0\ref\FirstApplication.dll
 D:\Work\Kanini\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.pdb
 D:\Work\Kanini\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.genruntimeconfig.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\ref\FirstApplication.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\FirstApplication\obj\Debug\net5.0\FirstApplication.pdb

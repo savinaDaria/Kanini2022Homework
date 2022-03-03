@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Kanini\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj": {}
+    "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Kanini\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj": {
+    "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Kanini\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
-        "projectName": "DoctorSystemMenu",
-        "projectPath": "D:\\Work\\Kanini\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
+        "projectUniqueName": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj",
+        "projectName": "DoctorModelsLibrary",
+        "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj",
         "packagesPath": "C:\\Users\\Agusha\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Kanini\\C#\\DoctorSystemMenu\\obj\\",
+        "outputPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,11 +31,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "D:\\Work\\Kanini\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj": {
-                "projectPath": "D:\\Work\\Kanini\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -66,14 +62,14 @@
         }
       }
     },
-    "D:\\Work\\Kanini\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj": {
+    "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Kanini\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
-        "projectName": "DoctorModelsLibrary",
-        "projectPath": "D:\\Work\\Kanini\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj",
+        "projectUniqueName": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
+        "projectName": "DoctorSystemMenu",
+        "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\DoctorSystemMenu.csproj",
         "packagesPath": "C:\\Users\\Agusha\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Kanini\\C#\\HospitalModelsLibrary\\obj\\",
+        "outputPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorSystemMenu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,7 +89,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj": {
+                "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\DoctorModelsLibrary\\DoctorModelsLibrary.csproj"
+              },
+              "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj": {
+                "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\HospitalModelsLibrary\\DoctorModelsLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

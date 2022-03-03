@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ExceptionHandlingLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExceptionHandlingLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExceptionHandlingLibrary.dll": {}
+        }
+      },
+      "GameModelsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ExceptionHandlingLibrary": "1.0.0",
+          "PersonModelsLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameModelsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameModelsLibrary.dll": {}
+        }
+      },
+      "PersonModelsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PersonModelsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonModelsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionHandlingLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ExceptionHandlingLibrary/ExceptionHandlingLibrary.csproj",
+      "msbuildProject": "../ExceptionHandlingLibrary/ExceptionHandlingLibrary.csproj"
+    },
+    "GameModelsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../GameModelsLibrary/GameModelsLibrary.csproj",
+      "msbuildProject": "../GameModelsLibrary/GameModelsLibrary.csproj"
+    },
+    "PersonModelsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PersonModelsLibrary/PersonModelsLibrary.csproj",
+      "msbuildProject": "../PersonModelsLibrary/PersonModelsLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GameModelsLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agusha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\GameMenu\\GameMenu.csproj",
+      "projectName": "GameMenu",
+      "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\GameMenu\\GameMenu.csproj",
+      "packagesPath": "C:\\Users\\Agusha\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\GameMenu\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Agusha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\GameModelsLibrary\\GameModelsLibrary.csproj": {
+              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\GameModelsLibrary\\GameModelsLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

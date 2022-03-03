@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Kanini\\C#\\MultipleProjectApplication\\MultipleProjectApplication.csproj",
+      "projectUniqueName": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\MultipleProjectApplication\\MultipleProjectApplication.csproj",
       "projectName": "MultipleProjectApplication",
-      "projectPath": "D:\\Work\\Kanini\\C#\\MultipleProjectApplication\\MultipleProjectApplication.csproj",
+      "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\MultipleProjectApplication\\MultipleProjectApplication.csproj",
       "packagesPath": "C:\\Users\\Agusha\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Kanini\\C#\\MultipleProjectApplication\\obj\\",
+      "outputPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\MultipleProjectApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Work\\Kanini\\C#\\PizzaStoreModelsLibrary\\PizzaStoreModelsLibrary.csproj": {
-              "projectPath": "D:\\Work\\Kanini\\C#\\PizzaStoreModelsLibrary\\PizzaStoreModelsLibrary.csproj"
+            "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\PizzaStoreModelsLibrary\\PizzaStoreModelsLibrary.csproj": {
+              "projectPath": "D:\\Work\\Kanini\\StudyHomeworkKanini\\Kanini2022Homework\\C#\\PizzaStoreModelsLibrary\\PizzaStoreModelsLibrary.csproj"
             }
           }
         }

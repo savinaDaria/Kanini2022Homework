@@ -1,0 +1,12 @@
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\bin\Debug\net5.0\PersonModelsLibrary.deps.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\bin\Debug\net5.0\PersonModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\bin\Debug\net5.0\ref\PersonModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\bin\Debug\net5.0\PersonModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\ref\PersonModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\PersonModelsLibrary\obj\Debug\net5.0\PersonModelsLibrary.pdb
