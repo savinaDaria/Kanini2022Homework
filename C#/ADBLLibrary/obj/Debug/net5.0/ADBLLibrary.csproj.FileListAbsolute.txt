@@ -1,0 +1,17 @@
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADBLLibrary.deps.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADBLLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ref\ADBLLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADBLLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADODALLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADOModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADODALLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\bin\Debug\net5.0\ADOModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.csproj.CopyComplete
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ref\ADBLLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\C#\ADBLLibrary\obj\Debug\net5.0\ADBLLibrary.pdb
