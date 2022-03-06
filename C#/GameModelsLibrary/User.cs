@@ -1,9 +1,11 @@
 ﻿using System;
-using PersonModelsLibrary;
 namespace GameModelsLibrary
 {
-    public class User : Person
+    public class User
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
         string password;
         public User()
         {
@@ -13,13 +15,11 @@ namespace GameModelsLibrary
             password = Name + Age;
         }
 
-        public User(ManagePerson manager)
+        public User(string name, int age)
         {
-            Person person = manager.CreatePerson();
-            password = person.Name + person.Age;
-            Name = person.Name;
-            Age = person.Age;
-            Id = person.Id;
+            Name = name;
+            Age = age;
+            password = Name + Age;
             Console.WriteLine(this);
         }
 
@@ -32,7 +32,7 @@ namespace GameModelsLibrary
         public override string ToString()
         {
             return ("\n==============User Details==============\n" +
-             $"Welcome - your password is your name and age together({password})\n" +
+             $"Welcome {Name} your password is your name and age together({password})\n" +
              $"Your id is {Id}\n");
         }
 

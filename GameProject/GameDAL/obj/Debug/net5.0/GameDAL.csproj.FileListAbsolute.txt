@@ -1,0 +1,17 @@
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\GameDAL.deps.json
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\GameDAL.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\ref\GameDAL.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\GameDAL.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\ExceptionHandlingLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\GameModelsLibrary.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\GameModelsLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\bin\Debug\net5.0\ExceptionHandlingLibrary.pdb
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.csproj.AssemblyReference.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.AssemblyInfoInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.AssemblyInfo.cs
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.csproj.CoreCompileInputs.cache
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.csproj.CopyComplete
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\ref\GameDAL.dll
+D:\Work\Kanini\StudyHomeworkKanini\Kanini2022Homework\GameProject\GameDAL\obj\Debug\net5.0\GameDAL.pdb

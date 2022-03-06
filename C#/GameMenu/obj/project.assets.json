@@ -16,24 +16,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "ExceptionHandlingLibrary": "1.0.0",
-          "PersonModelsLibrary": "1.0.0"
+          "ExceptionHandlingLibrary": "1.0.0"
         },
         "compile": {
           "bin/placeholder/GameModelsLibrary.dll": {}
         },
         "runtime": {
           "bin/placeholder/GameModelsLibrary.dll": {}
-        }
-      },
-      "PersonModelsLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/PersonModelsLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PersonModelsLibrary.dll": {}
         }
       }
     }
@@ -48,11 +37,6 @@
       "type": "project",
       "path": "../GameModelsLibrary/GameModelsLibrary.csproj",
       "msbuildProject": "../GameModelsLibrary/GameModelsLibrary.csproj"
-    },
-    "PersonModelsLibrary/1.0.0": {
-      "type": "project",
-      "path": "../PersonModelsLibrary/PersonModelsLibrary.csproj",
-      "msbuildProject": "../PersonModelsLibrary/PersonModelsLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {

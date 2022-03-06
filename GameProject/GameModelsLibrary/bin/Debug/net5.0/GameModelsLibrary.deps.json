@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GameModelsLibrary/1.0.0": {
+        "dependencies": {
+          "ExceptionHandlingLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GameModelsLibrary.dll": {}
+        }
+      },
+      "ExceptionHandlingLibrary/1.0.0": {
+        "runtime": {
+          "ExceptionHandlingLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameModelsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExceptionHandlingLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
